@@ -13,7 +13,7 @@ This is an introduction about a unified and validated traffic assignmnet dataset
 
 
 
-# About the dataset
+# About the Dataset
 
 ## Data contents
 - 01 input data
@@ -43,7 +43,7 @@ This is an introduction about a unified and validated traffic assignmnet dataset
 
 
 
-## 20 U.S. Cities
+## 20 U.S. cities
 The 20 U.S. cities included in this dataset are listed below.
 
 | No. |City           |State          |TAZs  |Nodes  |Links  |
