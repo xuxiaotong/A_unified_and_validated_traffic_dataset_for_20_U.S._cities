@@ -31,7 +31,7 @@ This is an introduction about a unified and validated traffic assignmnet dataset
   - LinkFlows.bin / LinkFlows.csv : traffic assignment results by TransCAD
   - ShortestPath.mtx / ue_travel_time.csv : the traval time (min) between OD pairs by TransCAD
 
-  A guide for TransCAD users who want to get access to the results is provideed [here](https://github.com/xuxiaotong/A_unified_traffic_assignment_dataset_of_20_U.S._cities/blob/main/A%20Guide%20for%20TransCAD%20Users.md). 
+  A guide for TransCAD users who want to get access to the results is provided [here](https://github.com/xuxiaotong/A_unified_traffic_assignment_dataset_of_20_U.S._cities/blob/main/A%20Guide%20for%20TransCAD%20Users.md). 
 
 - 03 AequilibraE results (software version: 0.9.3)
   - cityname.shp : shapefile network data of the city support by [QGIS](https://www.qgis.org/en/site/) or other GIS software
@@ -39,14 +39,14 @@ This is an introduction about a unified and validated traffic assignmnet dataset
   - network.csv : the network file uesed for traffic assignment in AequilibraE
   - assignment_result.csv : traffic assignment results by AequilibraE
 
-  A python code file for AequilibraE users who want to get access to the results is provideed [here](). 
+  A python code file for AequilibraE users who want to get access to the results is provided [here](). 
 
 
 
 ## 20 U.S. Cities
 The 20 U.S. cities included in this dataset are listed below.
 
-| No. | City          |  State        | TAZs | Nodes | Links |
+| No. |City          |State        |TAZs |Nodes |Links |
 |-----|---------------|---------------|------|-------|-------|
 | 1   | San Francisco |  California   | 194  | 4986  | 18002 |
 | 2   | Seattle       |  Washington   | 139  | 6891  | 27361 |
@@ -58,7 +58,7 @@ The 20 U.S. cities included in this dataset are listed below.
 | 8   | Minneapolis   | Minnesota     | 130  | 4004  | 15363 |
 | 9   | Dallas-Fort Worth | Texas     | 328  | 21389 | 77818 |
 | 10  | Milwaukee         | Wisconsin | 234  | 8521  | 30747 |
-| 11  | New York City     |  New York | 2005 | 28626 | 99410 |
+| 11  | New York City     | New York  | 2005 | 28626 | 99410 |
 | 12  | Washington    |  District of Columbia | 179  | 6136  | 23573 |
 | 13  | Boston        |  Massachusetts        | 191  | 5542  | 20487 |
 | 14  | Philadelphia  |  Pennsylvania         | 389  | 10410 | 38641 |
