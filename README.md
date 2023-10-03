@@ -2,7 +2,7 @@
 - [Introduction](#introduction)
 - [About the dataset](#about-the-dataset)
   - [Data contents](#data-contents)
-  - [20 U.S. Cities](#20-us-cities)
+  - [20 U.S. cities](#20-us-cities)
   - [Dataset usage](#dataset-usage)
 - [Publication](#publication)
 - [Contact](#contact)
