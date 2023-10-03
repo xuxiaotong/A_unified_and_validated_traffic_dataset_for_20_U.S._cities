@@ -39,7 +39,7 @@ This is an introduction about a unified and validated traffic assignmnet dataset
   - network.csv : the network file uesed for traffic assignment in AequilibraE
   - assignment_result.csv : traffic assignment results by AequilibraE
 
-  A python code file for AequilibraE users who want to get access to the results is provided [here](). 
+  A python code file for AequilibraE users who want to get access to the results is provided [here](https://github.com/xuxiaotong/A_unified_and_validated_traffic_assignment_dataset_of_20_U.S._cities/blob/main/AequilibraE_assignment.py). 
 
 
 
@@ -72,8 +72,7 @@ The 20 U.S. cities included in this dataset are listed below.
 
 
 ## Dataset usage
-Download: [A unified traffic assignment dataset for 20 U.S. cities](https://figshare.com/s/6987aceb18cf029edc66)
-
+Download: [A unified and validated traffic assignment dataset for 20 U.S. cities](https://figshare.com/s/6987aceb18cf029edc66)
 
 Citation: Xu, Xiaotong; Zheng, Zhenjie; Hu, Zijian; Feng, Kairui; Ma, Wei (2023). A unified and validated traffic assignment dataset for 20 U.S. cities.rar. figshare. Dataset. https://doi.org/10.6084/m9.figshare.24235696
 
