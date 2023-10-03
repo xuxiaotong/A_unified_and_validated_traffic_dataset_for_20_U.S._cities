@@ -47,7 +47,7 @@ This is an introduction about a unified and validated traffic assignmnet dataset
 The 20 U.S. cities included in this dataset are listed below.
 
 | No. |City           |State          |TAZs  |Nodes  |Links  |
-| :---|:--------------|:--------------|:-----|:------|:------|
+|:----|:--------------|:--------------|:-----|:------|:------|
 | 1   | San Francisco |  California   | 194  | 4986  | 18002 |
 | 2   | Seattle       |  Washington   | 139  | 6891  | 27361 |
 | 3   | Portland      |  Oregon       | 157  | 8245  | 31939 |
