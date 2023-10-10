@@ -9,7 +9,7 @@
 
 
 # Introduction
-This is an introduction about a unified and validated traffic assignmnet dataset for 20 U.S. cities. The input data were all collected and processed from multi-source open public datasets. We applied two traffic modelling platforms ([TransCAD](https://www.caliper.com/tcovu.htm) and [AequilibraE](http://www.aequilibrae.com/python/latest/index.html)) simultaneously to obtain the final results.
+This is an introduction about a unified and validated traffic dataset for 20 U.S. cities. The input data were all collected and processed from multi-source open public datasets. We applied two traffic modelling platforms ([TransCAD](https://www.caliper.com/tcovu.htm) and [AequilibraE](http://www.aequilibrae.com/python/latest/index.html)) simultaneously to obtain the final results.
 
 
 
@@ -72,9 +72,9 @@ The 20 U.S. cities included in this dataset are listed below.
 
 
 ## Dataset usage
-Download: [A unified and validated traffic assignment dataset for 20 U.S. cities](https://figshare.com/s/6987aceb18cf029edc66)
+Download: [A unified and validated traffic dataset for 20 U.S. cities](https://figshare.com/s/6987aceb18cf029edc66)
 
-Citation: Xu, Xiaotong; Zheng, Zhenjie; Hu, Zijian; Feng, Kairui; Ma, Wei (2023). A unified and validated traffic assignment dataset for 20 U.S. cities.rar. figshare. Dataset. https://doi.org/10.6084/m9.figshare.24235696
+Citation: Xu, Xiaotong; Zheng, Zhenjie; Hu, Zijian; Feng, Kairui; Ma, Wei (2023). A unified and validated traffic dataset for 20 U.S. cities.rar. figshare. Dataset. https://doi.org/10.6084/m9.figshare.24235696
 
 
 
