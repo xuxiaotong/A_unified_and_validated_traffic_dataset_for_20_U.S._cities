@@ -56,7 +56,7 @@ The 20 U.S. cities included in this dataset are listed below.
 | 6   | New Orleans   |  Louisiana    | 185  | 7217  | 24073 |
 | 7   | Austin        |  Texas        | 199  | 10717 | 40158 |
 | 8   | Minneapolis   | Minnesota     | 130  | 4004  | 15363 |
-| 9   | Dallas-Fort Worth | Texas     | 328  | 21389 | 77818 |
+| 9   | Dallas        | Texas         | 328  | 21389 | 77818 |
 | 10  | Milwaukee         | Wisconsin | 234  | 8521  | 30747 |
 | 11  | New York City     | New York  | 2005 | 28626 | 99410 |
 | 12  | Washington    |  District of Columbia | 179  | 6136  | 23573 |
