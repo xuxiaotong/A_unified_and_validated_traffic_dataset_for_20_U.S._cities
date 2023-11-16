@@ -24,7 +24,7 @@ This is an introduction about a unified and validated traffic dataset for 20 U.S
   A brief demonstration about the input data is provided [here](https://github.com/xuxiaotong/A_unified_traffic_assignment_dataset_of_20_U.S._cities/blob/main/input%20data%20introduction.ipynb).
 
 - 02 TransCAD results (software version: 9.0)
-  - cityname.dbd : geographical network database of the city supported by TransCAD (**version 9.0**)
+  - cityname.dbd : geographical network database of the city supported by **TransCAD (version 9.0)**
   - cityname_link.shp / cityname_node.shp : shapefile network data supported by GIS software, which can be imported into TransCAD manually. Then the corresponding '.dbd' file can be generated for **TransCAD with a lower version than 9.0**
   - od.mtx : OD matrix supported by TransCAD
   - LinkFlows.bin / LinkFlows.csv : traffic assignment results by TransCAD
