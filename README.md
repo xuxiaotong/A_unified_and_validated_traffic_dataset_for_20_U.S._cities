@@ -19,14 +19,13 @@ This is an introduction about a unified and validated traffic dataset for 20 U.S
 - 01 input data
   - the initial network data obtained from [OpenStreetMap](https://www.openstreetmap.org/) (OSM)
   - the visualization of the OSM data
-  - processed node data
-  - processed link data
-  - processed od data
+  - processed node/link/od data
   
   A brief demonstration about the input data is provided [here](https://github.com/xuxiaotong/A_unified_traffic_assignment_dataset_of_20_U.S._cities/blob/main/input%20data%20introduction.ipynb).
 
 - 02 TransCAD results (software version: 9.0)
-  - cityname.dbd : geographical network database of the city supported by TransCAD
+  - cityname.dbd : geographical network database of the city supported by TransCAD (version 9.0)
+  - cityname_link.shp/cityname_node.shp : shapefile network data supported by GIS software, which can be imported into the TransCAD manually and generate the '.dbd' file for TransCAD (version lower than 9.0)
   - od.mtx : OD matrix supported by TransCAD
   - LinkFlows.bin / LinkFlows.csv : traffic assignment results by TransCAD
   - ShortestPath.mtx / ue_travel_time.csv : the traval time (min) between OD pairs by TransCAD
