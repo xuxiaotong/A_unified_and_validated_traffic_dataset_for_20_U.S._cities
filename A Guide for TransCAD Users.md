@@ -191,7 +191,7 @@ A detailed description of the assignment results for each link is provided below
 - Tot_Flow: Total traffic flow (veh/h) for both directions
 - Time: Loaded travel time (min) for each link
 - Max_Time: Maximum loaded travel time (min) for links in both directions
-- VOC	Volume: to Capacity (V/C) ratio for each link
+- VOC: Volume to Capacity (V/C) ratio for each link
 - Max_VOC: Maximum V/C ratio for links in both directions
 - VKmT: Vehicle-Distance Travelled for each link
 - Tot_VKmT: Total Vehicle-Distance Travelled for both directions
