@@ -28,7 +28,7 @@ This is an introduction about a unified and validated traffic dataset for 20 U.S
   - cityname_link.shp / cityname_node.shp : network data supported by GIS software, which can be imported into TransCAD manually. Then the corresponding '.dbd' file can be generated for **TransCAD with a lower version than 9.0**
   - od.mtx : OD matrix supported by TransCAD
   - LinkFlows.bin / LinkFlows.csv : traffic assignment results by TransCAD
-  - ShortestPath.mtx / ue_travel_time.csv : the traval time (min) between OD pairs by TransCAD
+  - ShortestPath.mtx / ue_travel_time.csv : the travel time (min) between OD pairs by TransCAD
 
   A guide for TransCAD users who want to get access to the results is provided [here](https://github.com/xuxiaotong/A_unified_traffic_assignment_dataset_of_20_U.S._cities/blob/main/A%20Guide%20for%20TransCAD%20Users.md). 
 
