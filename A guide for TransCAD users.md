@@ -1,7 +1,7 @@
-# **A Guide for TransCAD Users**
+# **A guide for TransCAD users**
 
 
-- [**A Guide for TransCAD Users**](#a-guide-for-transcad-users)
+- [**A guide for TransCAD users**](#a-guide-for-transcad-users)
   - [**1. Introduction**](#1-introduction)
   - [**2. View the dataset**](#2-view-the-dataset)
     - [**2.1 Input data**](#21-input-data)
