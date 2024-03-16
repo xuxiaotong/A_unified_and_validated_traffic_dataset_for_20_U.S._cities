@@ -16,7 +16,7 @@ This is an introduction about a unified and validated traffic dataset for 20 U.S
 # About the dataset
 
 ## Data contents
-- 01 input data
+- 01 Input data
   - the initial network data obtained from [OpenStreetMap](https://www.openstreetmap.org/) (OSM)
   - the visualization of the OSM data
   - processed node/link/od data
@@ -71,11 +71,11 @@ The 20 U.S. cities included in this dataset are listed below.
 
 
 ## Dataset usage
-Download: [A unified and validated traffic dataset for 20 U.S. cities](https://figshare.com/s/6987aceb18cf029edc66)
+Download: [A unified and validated traffic dataset for 20 U.S. cities](https://doi.org/10.6084/m9.figshare.24235696)
 
 Citation: Xu, Xiaotong; Zheng, Zhenjie; Hu, Zijian; Feng, Kairui; Ma, Wei (2023). A unified and validated traffic dataset for 20 U.S. cities. figshare. Dataset. https://doi.org/10.6084/m9.figshare.24235696.v1
 
-DOI: https://doi.org/10.6084/m9.figshare.24235696.v1
+DOI: https://doi.org/10.6084/m9.figshare.24235696
 
 
 # Publication
