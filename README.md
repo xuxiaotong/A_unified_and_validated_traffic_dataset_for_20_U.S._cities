@@ -73,9 +73,8 @@ The 20 U.S. cities included in this dataset are listed below.
 ## Dataset usage
 Download: [A unified and validated traffic dataset for 20 U.S. cities](https://doi.org/10.6084/m9.figshare.24235696)
 
-Citation: Xu, Xiaotong; Zheng, Zhenjie; Hu, Zijian; Feng, Kairui; Ma, Wei (2023). A unified and validated traffic dataset for 20 U.S. cities. figshare. Dataset. https://doi.org/10.6084/m9.figshare.24235696.v1
+Citation: Xu, Xiaotong; Zheng, Zhenjie; Hu, Zijian; Feng, Kairui; Ma, Wei (2023). A unified and validated traffic dataset for 20 U.S. cities. figshare. Dataset. https://doi.org/10.6084/m9.figshare.24235696
 
-DOI: https://doi.org/10.6084/m9.figshare.24235696
 
 
 # Publication
