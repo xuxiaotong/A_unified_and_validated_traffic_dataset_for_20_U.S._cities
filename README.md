@@ -21,7 +21,7 @@ This is an introduction about a unified and validated traffic dataset for 20 U.S
   - the visualization of the OSM data
   - processed node/link/od data
   
-  A brief demonstration about the input data is provided [here](https://github.com/xuxiaotong/A_unified_traffic_assignment_dataset_of_20_U.S._cities/blob/main/input%20data%20introduction.ipynb).
+  A brief demonstration about the input data is provided [here](https://github.com/xuxiaotong/A_unified_and_validated_traffic_dataset_of_20_U.S._cities/blob/main/Input%20data%20introduction.ipynb).
 
 - 02 TransCAD results (software version: 9.0)
   - cityname.dbd : geographical network database of the city supported by **TransCAD (version 9.0)**
@@ -30,7 +30,7 @@ This is an introduction about a unified and validated traffic dataset for 20 U.S
   - LinkFlows.bin / LinkFlows.csv : traffic assignment results by TransCAD
   - ShortestPath.mtx / ue_travel_time.csv : the travel time (min) between OD pairs by TransCAD
 
-  A guide for TransCAD users who want to get access to the results is provided [here](https://github.com/xuxiaotong/A_unified_traffic_assignment_dataset_of_20_U.S._cities/blob/main/A%20Guide%20for%20TransCAD%20Users.md). 
+  A guide for TransCAD users who want to get access to the results is provided [here](https://github.com/xuxiaotong/A_unified_and_validated_traffic_dataset_of_20_U.S._cities/blob/main/A%20guide%20for%20TransCAD%20users.md). 
 
 - 03 AequilibraE results (software version: 0.9.3)
   - cityname.shp : shapefile network data of the city support by [QGIS](https://www.qgis.org/en/site/) or other GIS software
