@@ -10,15 +10,15 @@ from aequilibrae.paths.traffic_class import TrafficClass
 
 ########   step 1:  identify the city and input file path       #############
 city_No = '01'
-city =  'San Francisco'
-city_path = city_No + ' ' + city
-AE_path = city_path + '/' + '03 AequilibraE results'
+city =  'San_Francisco'
+city_path = city_No + '_' + city
+AE_path = city_path + '/' + '03_AequilibraE_results'
 
 
 ########   step 2:  define the od matrix file and generate od index      #############
 aemfile = AE_path + '/' + 'od_demand.aem'
 
-od_data = pd.read_csv(city_path + '/' + '01 input data' + '/' + city + '_od.csv')
+od_data = pd.read_csv(city_path + '/' + '01_Input_data' + '/' + city + '_od.csv')
 zones = int(max(od_data.O_ID.max() - 9999999, od_data.D_ID.max() - 9999999))
 index = np.arange(zones) + 1
 
