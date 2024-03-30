@@ -78,6 +78,7 @@ Citation: Xu, Xiaotong; Zheng, Zhenjie; Hu, Zijian; Feng, Kairui; Ma, Wei (2023)
 
 
 # Publication
+Xu, X., Zheng, Z., Hu, Z. et al. A unified dataset for the city-scale traffic assignment model in 20 U.S. cities. Sci Data 11, 325 (2024). https://doi.org/10.1038/s41597-024-03149-8
 
 # Contact
 Xiaotong Xu: kid-a.xu@connect.polyu.hk
