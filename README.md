@@ -71,11 +71,11 @@ The 20 U.S. cities included in this dataset are listed below.
 
 
 ## Dataset usage
-Download: [A unified and validated traffic dataset for 20 U.S. cities](https://doi.org/10.6084/m9.figshare.24235696)
+Dataset Download: [A unified and validated traffic dataset for 20 U.S. cities](https://doi.org/10.6084/m9.figshare.24235696)
 
-Citation: Xu, Xiaotong; Zheng, Zhenjie; Hu, Zijian; Feng, Kairui; Ma, Wei (2023). A unified and validated traffic dataset for 20 U.S. cities. figshare. Dataset. https://doi.org/10.6084/m9.figshare.24235696
+Dataset Citation: Xu, Xiaotong; Zheng, Zhenjie; Hu, Zijian; Feng, Kairui; Ma, Wei (2023). A unified and validated traffic dataset for 20 U.S. cities. figshare. Dataset. https://doi.org/10.6084/m9.figshare.24235696
 
-
+More detailed illustration for compiling the traffic dataset can be reffered to [GitHub code] (https://github.com/kelvinfkr/Unified_UE_US_cities/blob/main/Illustrative_unified_dataset_traffic_assignment.ipynb) or [Colab code](https://colab.research.google.com/drive/19iGXJAHx5_vvoZMbOmbBXdTwxzVogB2V?usp=sharing)
 
 # Publication
 Xu, X., Zheng, Z., Hu, Z. et al. A unified dataset for the city-scale traffic assignment model in 20 U.S. cities. Sci Data 11, 325 (2024). https://doi.org/10.1038/s41597-024-03149-8
